@@ -17,6 +17,8 @@
 
 - ⚡ Fun fact **I once debugged a program in my sleep 😴**
 
+![snake gif](https://github.com/mahlabazam614/mahlabazam614/blob/output/github-snake-dark.svg)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mahlab_614" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mahlab_614" height="30" width="40" /></a>
