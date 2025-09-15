@@ -7,13 +7,13 @@
 
 - 🔭 I’m interested in **Web Development, AI, Open Source, Mobile Apps**
 
-- 🌱 I’m currently learning **React.js, Node.js, Python, Data Structures, flutter**
+- 🌱 I’m currently learning **React.js, Node.js, Python, Data Structures, flutter, OpenAI agentsSDK**
 
 - 👯 I’m looking to collaborate on **beginner-friendly open source projects, hackathons, tech communities**
 
-- 💬 Ask me about **web development, app development, python, react native**
+- 💬 Ask me about **web development, app development, python, react native, OpenAI agentsSDK**
 
-- 📫 How to reach me **mahlabazam614@gmail.com**
+- 📫 How to reach me **myportfolio-gold-nine.vercel.app**
 
 - ⚡ Fun fact **I once debugged a program in my sleep 😴**
 
