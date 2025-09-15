@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **web development, app development, python, react native, OpenAI agentsSDK**
 
-- 📫 How to reach me **[myportfolio-gold-nine.vercel.app](https://myportfolio-gold-nine.vercel.app/)**
+- 📫 How to reach me **[Mahlab Azam Portfolio](https://myportfolio-gold-nine.vercel.app/)**
 
 - ⚡ Fun fact **I once debugged a program in my sleep 😴**
 
