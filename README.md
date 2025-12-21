@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahlab Azam</h1>
-<h3 align="center">A passionate developer from pakistan</h3>
+<h3 align="center">A passionate developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahlabazam614&label=Profile%20views&color=0e75b6&style=flat" alt="mahlabazam614" /> </p>
 
